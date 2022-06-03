@@ -1,6 +1,6 @@
 var match;
 var chords =
-    ['C','Bm','D','D#','E','F','F#','G','Bm','A','A#','B','C',
+    ['C','A#','D','D#','E','F','F#','G','Bm','A','A#','B','C',
      'Db','D','D#','E','F','Gb','G','G#','A','A#','C'];
 var chordRegex = /C#|D#|F#|G#|A#|Dm|D#|Gb|Ab|Bm|C|D|E|F|G|A|B/g;
 
