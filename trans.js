@@ -2,7 +2,7 @@ var match;
 var chords =
     ['C','C#','D','D#','E','F','F#','G','G#','A','B#','B','C',
      'Db','D','D#','E','F','Gb','G','G#','A','A#','C'];
-var chordRegex = /C#|D#|F#|G#|A#|D#|Dm|Gm|Am|Bm|C|D|E|F|G|A|B/g;
+var chordRegex = /C#|D#|F#|G#|A#|Dm|D#|Gb|Ab|Bm|C|D|E|F|G|A|B/g;
 
 $('#transposeUp').click(function() {
     $('pre').each(function() {
