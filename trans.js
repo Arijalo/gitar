@@ -1,6 +1,6 @@
 var match;
 var chords =
-    ['C','C#','Dm','D','D#','Em','E','Fm','F','F#','Gm','G','G#','Am','A','A#','Bm','B'];
+    ['C','C#','D','D#','E','F','F#','G','G#','A','A#','B'];
 var chordRegex = /C#|D#|F#|G#|A#|Dm|Em|Gm|Am|Bm|C|D|E|F|G|A|B/g;
 
 $('#transposeUp').click(function() {
